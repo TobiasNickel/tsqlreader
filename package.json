@@ -1,6 +1,6 @@
 {
     "name": "tsqlreader",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "description": "load queries from .sql-files + naming + tamplates",
     "main": "index.js",
     "scripts": {
